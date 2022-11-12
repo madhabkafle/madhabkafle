@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on web related projects
-- 📫 How to reach me : madhabkafle8280@gmail.com
+- 📫 How to reach me : madhabkafle05@gmail.com
 
 <!---
 madhabkafle/madhabkafle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
