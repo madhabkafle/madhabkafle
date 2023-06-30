@@ -1,5 +1,4 @@
-# Hello, I am Madhab Kafle 
-![image](https://github.com/madhabkafle/madhabkafle/assets/73248000/280a9e14-2deb-4014-b4e7-8754627ef0da)
+# Hello, I am Madhab Kafle
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web development
